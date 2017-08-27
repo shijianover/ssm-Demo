@@ -1,1 +1,1 @@
-基于Maven，（如需使用，请先配置本机maven仓库的位置），实现了springmvc spring mybatis的整合。
+基于Maven，（如需使用，请先配置本机maven仓库的位置），实现了springmvc spring mybatis的整合。其中还有一个基于mybatis 读取数据库数据的Demo
